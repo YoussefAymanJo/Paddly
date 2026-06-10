@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2, D3, D4, D5, D6, D7, D8",Diode_DO-35,8,~,
+"D10, D9",LED_WS2812B,2,LED_WS2812B,
+J1,OLED_128x64,1,OLED_128x64,
+"S1, S2, S3, S4, S5, S6",MX_PCB_1.00u,6,~,
+"SW1, SW2",Encoder_EC11_MX,2,RotaryEncoder_Switch,
+U1,Raspberry_Pi_Pico,1,Raspberry_Pi_Pico,
