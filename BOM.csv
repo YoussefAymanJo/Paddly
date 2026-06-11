@@ -4,9 +4,11 @@ OLED 0.96 128*64,https://www.ram-e-shop.com/shop/oled-0-96-4pin-oled-0-96-4pin-l
 EC11 Rotary Encoder With Push Button,https://www.amazon.com/MECCANIXITY-Encoder-Digital-Potentiometer-Instrument/dp/B0GWCK7TL8/ref=sr_1_20?sr=8-20,Control volume of sound and screen contrast ,2,12.46
 Cherry MX Brown Hyperglide 45g Tactile SwitchCherry MX Brown Hyperglide 45g Tactile Switch,https://mechanicalkeyboards.com/products/cherry-mx-brown-hyperglide-45g-tactile?_pos=17&_fid=a7022ff97&_ss=c&variant=48045148569900https://mechanicalkeyboards.com/products/cherry-mx-brown-hyperglide-45g-tactile?_pos=17&_fid=a7022ff97&_ss=c&variant=48045148569900,Switch ,6,1.94
 WS2812B RGB Smart LED SMD 5050,https://uge-one.com/product/ws2812b-rgb-smart-led-smd-5050/,RGB leds ,2,0.38
-keycaps dsa,https://mechanicalkeyboards.com/products/mk-1x1-dsa-relegendable-black-with-clear-top-set-of-10?_pos=1&_sid=0a07e8d3c&_ss=r,Cover for switches,6,9.88
-m3 screws 12mm,https://www.amazon.eg/-/en/sourcingmap-M3x12mm-0-5mm-Socket-Screws/dp/B015A3EW6E/ref=sr_1_1?sr=8-1,Screw for pcb,3,2.06
-m3*4*5 heatinsert,https://ampere-electronics.com/product/m3-knurled-brass-threaded-insert-nut/,Heatinsert for screws,7,0.54
-m3 screws 16mm,https://ampere-electronics.com/product/m3x16-hex-socket-head-screw/,Screws for enclosure,4,0.92
-PCB printing,,,1,49
-Total,,,,91.32
+m3 screws 12mm,https://www.amazon.eg/-/en/sourcingmap-M3x12mm-0-5mm-Socket-Screws/dp/B015A3EW6E/ref=sr_1_1?sr=8-1,Screw for pcb,1,2.06
+m3*4*5 heatinsert,https://ampere-electronics.com/product/m3-knurled-brass-threaded-insert-nut/,Heatinsert for screws,5,0.54
+m3 screws 20mm,https://www.amazon.eg/-/en/20mm-Allen-Socket-Head-Screws/dp/B08GY7W4PH,Screws for enclosure,4,4.79
+Solder_wire,https://www.ram-e-shop.com/shop/solder-wire-ram-100gm-solder-wire-ram-high-quality-100gm-sn70-pb30-6562?page=3&category=152&order=list_price+asc,used in soldering pcb parts,,7.62
+JLCPCB,None,PCb printing,1,2
+shipping_JLCPCB,None,,,
+printify3d,,,1,49
+Total,....,.....,.....,91.32
