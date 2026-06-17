@@ -31,4 +31,4 @@ I used KMK firmware.
 <img width="785" height="641" alt="Screenshot 2026-06-11 195734" src="https://github.com/user-attachments/assets/0ba0cf14-aa99-401c-bf65-9c949a13d5d2" />
 
 ## Zine
-<img width="1587" height="2245" alt="zine" src="https://github.com/user-attachments/assets/35e93c94-64e1-4d91-aebc-b17d82d475a9" />
+<img width="1587" height="2245" alt="zine" src="https://github.com/user-attachments/assets/fcbe400f-8332-40da-8d0a-97788072ccbf" />
